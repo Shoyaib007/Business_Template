@@ -1,0 +1,370 @@
+@media (max-width:575px) {
+
+    .navbar-toggler {
+        background-color: #fff !important;
+        margin-right: 20px;
+        width: 20%;
+        /*! height: 50%; */
+    }
+
+    .navbar-brand {
+        width: 45% !important;
+    }
+
+    .navbar-brand {
+        margin-left: 20px;
+    }
+
+    .banner-txt h1 {
+        font-size: 27px;
+    }
+
+    .banner-txt p {
+        font-size: 22px;
+        margin-top: 12px;
+    }
+
+    .navbar-nav {
+        margin-right: 20px;
+    }
+
+    .single-offer-bottom p {
+        line-height: 22px;
+        padding-right: 0;
+        padding-left: 0;
+        text-align: center
+    }
+
+    .single-offer-bottom .single-h3 {
+        text-align: center;
+    }
+
+    .single-offer-bottom i {
+
+        font-size: 26px;
+        width: 5% !important;
+        margin-left: 35px;
+    }
+
+    .full-sidebar-part {
+        margin-top: 88px;
+    }
+
+    .aside-cont {
+        margin-top: 100px;
+    }
+
+    .aside-cont .para p {
+
+        text-align: center;
+    }
+
+    .our-work-part .our-work p {
+        margin-top: 26px !important;
+        width: inherit !important;
+    }
+
+    .button-group .btn {
+
+        display: block;
+        margin-top: 20px;
+        margin: 20px auto;
+    }
+
+
+    .footer-top .business p,
+    .footer-top .business h2 {
+        text-align: center;
+    }
+
+    .contract h2,
+    .contract p {
+        text-align: center !important;
+    }
+
+    .latest-work h2 {
+        text-align: center;
+    }
+
+    .footer-top .news-later h2 {
+        margin-top: 20px;
+    }
+
+    .footer-top .news-later .email-submit input {
+        padding-right: 0 !important;
+    }
+
+    .footer-top .news-later .email-submit {
+        margin-right: 33px;
+    }
+
+    .footer-left p {
+        font-size: 12.5px;
+    }
+
+    .aside-cont {
+        margin-top: 100px;
+    }
+
+    .aside-cont .sidebar-button {
+        margin-left: -5px;
+    }
+
+    .tst_art {
+        margin-bottom: 30px;
+    }
+
+    .tst_art .slick-dots {
+        display: none !important;
+    }
+
+    .aside-cont h2 {
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:576px) and (max-width:767px) {
+    .navbar-toggler {
+        background-color: #fff !important;
+        margin-right: 20px;
+        width: 15%;
+        /*! height: 50%; */
+    }
+
+    .navbar-brand {
+        margin-left: 20px;
+    }
+
+    .banner-txt h1 {
+        font-size: 27px;
+    }
+
+    .banner-txt p {
+        font-size: 22px;
+        margin-top: 12px;
+    }
+
+    .navbar-nav {
+        margin-right: 20px;
+    }
+
+    .single-offer-bottom p {
+        line-height: 22px;
+        padding-right: 0;
+        padding-left: 0;
+        text-align: center
+    }
+
+    .single-offer-bottom .single-h3 {
+        text-align: center;
+    }
+
+    .single-offer-bottom i {
+
+        font-size: 26px;
+        width: 5% !important;
+        margin-left: 35px;
+    }
+
+    .full-sidebar-part {
+        margin-top: 88px;
+    }
+
+    .aside-cont {
+        margin-top: 100px;
+    }
+
+    .aside-cont .para p {
+
+        text-align: center;
+    }
+
+    .our-work-part .our-work p {
+        margin-top: 26px !important;
+        width: inherit !important;
+    }
+
+    .button-group .btn {
+
+        display: block;
+        margin-top: 20px;
+        margin: 20px auto;
+    }
+
+
+    .footer-top .business p,
+    .footer-top .business h2 {
+        text-align: center;
+    }
+
+    .contract h2,
+    .contract p {
+        text-align: center !important;
+    }
+
+    .latest-work h2 {
+        text-align: center;
+    }
+
+    .footer-top .news-later h2 {
+        margin-top: 20px;
+    }
+
+    .footer-top .news-later .email-submit input {
+        padding-right: 5 !important;
+    }
+
+    .footer-top .news-later .email-submit {
+        margin-right: 33px;
+    }
+
+    .footer-left p {
+        font-size: 12.5px;
+    }
+
+    .aside-cont {
+        margin-top: 100px;
+    }
+
+    .footer-top .news-later .email-submit .footer-button {
+
+        padding-left: 132px !important;
+        padding-right: 29px !important;
+    }
+
+    .mb-5 {
+        margin-top: 159px;
+    }
+
+    .single-offer-bottom i {
+        font-size: 26px;
+
+        margin-right: 20px
+    }
+
+    .tst_art .slick-dots {
+        display: none !important;
+    }
+
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .footer-left p {
+        white-space: nowrap !important;
+
+    }
+
+    .footer-top .news-later .email-submit {
+        margin-left: -60px;
+
+
+    }
+
+    .footer-top .news-later .email-submit input {
+        padding-right: 0px;
+    }
+
+    .footer-middle p {
+        margin-left: 68px;
+        white-space: nowrap;
+    }
+
+    .our-work-part .our-work p {
+        width: inherit;
+        margin-top: 47px;
+    }
+
+    .single-offer-bottom i {
+        font-size: 23px !important;
+        margin-right: 17px !important;
+    }
+
+    .navbar-toggler {
+        background-color: #fff !important;
+        margin-right: 20px;
+        width: 15%;
+        /*! height: 50%; */
+    }
+
+    .navbar-brand {
+        margin-left: 20px;
+    }
+
+    .tst_art .slick-dots {
+        display: none !important;
+    }
+
+    .footer-top .business h2,
+    .footer-top .contract h2,
+    .footer-top .latest-work h2,
+    .footer-top .news-later h2 {
+        font-size: 17px !important;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .footer-left p {
+        white-space: nowrap !important;
+
+    }
+
+    .footer-top .news-later .email-submit {
+        margin-left: -54px;
+
+
+    }
+
+    .footer-top .news-later .email-submit input {
+        padding-right: 23px;
+    }
+
+    .footer-middle p {
+        margin-left: 68px;
+        white-space: nowrap;
+    }
+
+    .our-work-part .our-work p {
+        width: inherit;
+        margin-top: 47px;
+    }
+
+    .single-offer-bottom i {
+        font-size: 23px !important;
+        margin-right: 17px !important;
+    }
+
+    .navbar-toggler {
+        background-color: #fff !important;
+        margin-right: 20px;
+        width: 15%;
+        /*! height: 50%; */
+    }
+
+    .navbar-brand {
+        margin-left: 20px;
+    }
+
+
+
+}
+
+@media (min-width:1200px) {
+
+    .footer-top .news-later .email-submit input {
+
+        padding-right: 44px;
+         !important;
+    }
+
+}
